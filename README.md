@@ -1,8 +1,8 @@
 # Hamza Iqbal 👨‍💻
 
-**Full Stack Developer | Expert in Scalable Web Applications**
+**Full Stack Web & Mobile Developer | Expert in Scalable Web Applications**
 
-Hello! I'm Hamza Iqbal, a Full Stack Developer with a passion for developing robust, scalable web applications. My expertise spans a range of modern technologies and frameworks, and I take pride in delivering efficient, high-performance solutions for a variety of industries.
+Hello! I'm Hamza Iqbal, a Full Stack Web & Mobile Developer with a passion for developing robust, scalable web & mobile applications. My expertise spans a range of modern technologies and frameworks, and I take pride in delivering efficient, high-performance solutions for a variety of industries.
 
 ### 🔭 Featured Projects
 
@@ -20,6 +20,7 @@ Hello! I'm Hamza Iqbal, a Full Stack Developer with a passion for developing rob
 - **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
 - **Cloud & DevOps**: AWS, Docker, CI/CD pipelines
 - **Other Tools**: Redis, GraphQL, REST APIs, Jira, Git
+- **Mobile**: Flutter, React Native
 
 ### 🌱 What I'm Learning
 - **Artificial Intelligence**: Exploring how to integrate AI technologies like **machine learning models** into web applications to enhance user experiences through recommendations, data analysis, and automation.
