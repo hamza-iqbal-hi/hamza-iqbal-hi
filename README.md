@@ -1,8 +1,8 @@
 # Hamza Iqbal 👨‍💻
 
-**Full Stack Web & Mobile Developer | Expert in Scalable Web Applications**
+**Full Stack Web & Mobile Developer | Expert in Scalable Software Applications**
 
-Hello! I'm Hamza Iqbal, a Full Stack Web & Mobile Developer with a passion for developing robust, scalable web & mobile applications. My expertise spans a range of modern technologies and frameworks, and I take pride in delivering efficient, high-performance solutions for a variety of industries.
+Hello! I'm Hamza Iqbal, a Full Stack Web & Mobile Developer with a passion for developing robust, scalable software applications. My expertise spans a range of modern technologies and frameworks, and I take pride in delivering efficient, high-performance solutions for a variety of industries.
 
 ### 🔭 Featured Projects
 
