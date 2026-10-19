@@ -1,4 +1,4 @@
-# Hamza Iqbal 👨‍💻 | Software Developer
+  # Hamza Iqbal 👨‍💻 | Software Developer
 
 **Senior Software Developer | Full Stack Web & Mobile | Co-founder of [Proglia](https://proglia.com)**
 
@@ -6,13 +6,22 @@ Hello! I'm Hamza Iqbal, a software developer with 10+ years of experience buildi
 
 ### 🔭 Featured Projects
 
-- **AmiraYachts Platform**: Developed a luxury yacht buying and selling platform with features such as advanced search filters, account management for brokers, commission calculation, and sales tracking. The platform was built using **VueJS 3**, **ExpressJS**, and **PostgreSQL**, with **Redis** for real-time data caching.
-  
-- **Prestau**: A menu management platform for restaurants that enables dynamic, time-based menu updates, deal management, and multi-location control. The platform is powered by **ReactJS**, with a focus on user-friendly, responsive design.
+- **[CODEXA](https://codexahub.io/) – AI Sales & Outreach Automation Platform**: Built a multi-tenant AI-powered sales platform that automates lead enrichment, outbound engagement, qualification, and sales handoff. The system combines AI voice and email outreach, lead scoring, next-best-action orchestration, automated pipeline management, analytics, conversation history, and role-based workflows. Integrated **Vapi**, **Smartlead**, **Unipile**, **Tavily**, **Google Calendar**, and other external APIs to coordinate sales activity across multiple channels.
 
-- **Following Pilots**: A social media platform for pilots with interactive features like logbooks, flight data visualization, and map integration. Built with **NUXT.js**, **Vuex**, and **Mapbox**, it offers a tailored user experience for the aviation community.
+- **[The Oracle – AI Sports Intelligence Platform](https://oraclefantasy.ai/)**: Developed an AI-powered sports intelligence platform covering NFL, NBA, MLB, and NHL data. The platform combines live sports data, team and player analysis, rankings, schedules, news, scenario-based insights, and AI-assisted recommendations, with integrations to external sports data providers and web-search services across customer-facing and admin applications.
 
-- **Powerplay Systems**: Created a comprehensive fantasy sports platform with real-time interaction and live data integration for NFL, NBA, MLB, and NHL. The frontend was built with **ReactJS**, and WebSockets were used for real-time updates.
+- **[Project Rebuilt](https://projectrebuilt.com/) – Personalized Health & Protocol Platform**: Developed a full-stack health and wellness platform that generates personalized protocols from users' submitted information and test results. Built onboarding, authentication, subscription billing with **Stripe**, user dashboards, admin tools, email communications, and mobile app support, with infrastructure designed for AI-driven recommendations.
+
+- **[MyAtlas Health](https://www.myatlas-health.com/) – Healthcare Support Platform**: Worked on the development and production infrastructure of a healthcare platform supporting patient communication and care-related workflows. Implemented and maintained secure application functionality, backend integrations, communications infrastructure, user-facing workflows, and production deployments on a modern cloud stack.
+
+
+- **[Wyszukaj Dane – Geographic Data Management Platform](https://wyszukajdane.pl/)**: Developed a high-performance **MERN** stack platform for aggregating, searching, and serving millions of geographic and demographic records across Poland, with advanced filtering, secure large-scale exports, **Stripe** billing and invoicing, and optimized backend workflows for large data volumes.
+
+- **[Joryka](https://dev.joryka.com/) – Offline-first Retail POS, Inventory & Credit Management Platform**: Built an offline-first POS, inventory, and credit management platform for retail and wholesale businesses with unreliable connectivity. Supports sales processing, multiple and partial payments, inventory tracking with unit-to-carton conversion, customer credit and ledgers, receipts, role-based access, audit trails, reporting, and safe sync across multiple users and devices.
+
+- **[Prestau](https://www.prestau.com/)**: A menu management platform for restaurants that enables dynamic, time-based menu updates, deal management, and multi-location control. The platform is powered by **ReactJS**, with a focus on user-friendly, responsive design.
+
+- 
 
 ### 💻 Tech Stack
 - **Frontend**: React, VueJS, NUXT.js, HTML5, CSS3, JavaScript, TypeScript
