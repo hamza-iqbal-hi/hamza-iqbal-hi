@@ -29,5 +29,6 @@ Hello! I'm Hamza Iqbal, a software developer with 10+ years of experience buildi
 ### 📫 Let's Connect
 - LinkedIn: [Hamza Iqbal](https://www.linkedin.com/in/hamza-iqbal-hi/)
 - Email: [Hamza Iqbal](mailto:13besehiqbal@seecs.edu.pk)
+- Company: [Proglia](https://proglia.com)
 
 Thanks for visiting! Feel free to connect with me to learn more about my projects or to collaborate on exciting opportunities.
