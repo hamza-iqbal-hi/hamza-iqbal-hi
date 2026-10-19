@@ -1,8 +1,8 @@
-# Hamza Iqbal 👨‍💻
+# Hamza Iqbal 👨‍💻 | Software Developer
 
-**Full Stack Web & Mobile Developer | Expert in Scalable Software Applications**
+**Senior Software Developer | Full Stack Web & Mobile | Co-founder of [Proglia](https://proglia.com)**
 
-Hello! I'm Hamza Iqbal, a Full Stack Web & Mobile Developer with a passion for developing robust, scalable software applications. My expertise spans a range of modern technologies and frameworks, and I take pride in delivering efficient, high-performance solutions for a variety of industries.
+Hello! I'm Hamza Iqbal, a software developer with 10+ years of experience building full-stack web and mobile applications, and co-founder of [Proglia](https://proglia.com), a software product engineering agency.
 
 ### 🔭 Featured Projects
 
